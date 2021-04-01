@@ -112,7 +112,7 @@ export default function Pool() {
               <div>
                 <Text fontSize="14px" style={{ padding: '.5rem 0 .5rem 0' }}>
                   {hasV1Liquidity
-                    ? 'Uniswap V1 liquidity found!'
+                    ? 'Liquidity found!'
                     : TranslateString(106, "Don't see a pool you joined?")}{' '}
                   <StyledInternalLink id="import-pool-link" to={hasV1Liquidity ? '/migrate/v1' : '/find'}>
                     {hasV1Liquidity ? 'Migrate now.' : TranslateString(108, 'Import it.')}
@@ -120,6 +120,11 @@ export default function Pool() {
                 </Text>
                 <Text fontSize="14px" style={{ padding: '.5rem 0 .5rem 0' }}>
                   Or, if you staked your LP tokens in a farm, unstake them to see them here.
+                </Text>
+                <Text fontSize="14px" style={{ padding: '.5rem 0 .5rem 0' }}>
+                  Dont see a pool you joined? <StyledInternalLink id="import-pool-link" to='/find'>
+                    Import it
+                    </StyledInternalLink>
                 </Text>
               </div>
             </AutoColumn>
