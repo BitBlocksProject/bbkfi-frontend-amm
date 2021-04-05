@@ -90,9 +90,9 @@ const config: MenuEntry[] = [
     ],
   },
   {
-    label: 'Audit by TechRate (Coming Soon)',
+    label: 'Audit by TechRate',
     icon: 'AuditIcon',
-    href: '#',
+    href: 'https://bitblocks.finance/files/Techrate-audit.pdf',
   },
   {
     label: 'oldBBFI website',
