@@ -32,6 +32,30 @@
       "decimals": 18
     },
     {
+      "name": "Pepper Finance",
+      "symbol": "PEPR",
+      "address": "0x019be1796178516e060072004f267b59a49a0801",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://amm.pepr.finance/images/coins/PEPR.png"
+    },
+    {
+      "name": "Wrapped PEPS",
+      "symbol": "WPEPS",
+      "address": "0xf0ebeb79792190a1be089c522c82e724a4f8c8f1",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://amm.pepr.finance/images/coins/WPEPS.png"
+    },
+    {
+      "name": "Pepper BRL",
+      "symbol": "PBRL",
+      "address": "0xcf9ec79de4080ebed2a53f66f00fc4a8da4f2a09",
+      "chainId": 56,
+      "decimals": 6,
+      "logoURI": "https://amm.pepr.finance/images/coins/PBRL.png"
+    },
+    {
       "name": "Vira-lata Finace",
       "symbol": "REAU",
       "address": "0x4c79b8c9cB0BD62B047880603a9DEcf36dE28344",
