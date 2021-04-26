@@ -104,7 +104,7 @@ const config: MenuEntry[] = [
   },
   {
     label: 'BitBlocks Website',
-    icon: 'More',
+    icon: 'MoreIcon',
     href: 'https://bitblocksproject.com/',
   },
 ]
