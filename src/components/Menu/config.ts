@@ -18,6 +18,14 @@ const config: MenuEntry[] = [
         label: "Liquidity",
         href: "http://exchange.bitblocks.finance//#/pool",
       },
+      {
+        label: "Exchange V1",
+        href: "http://v1exchange.bitblocks.finance//#/swap",
+      },
+      {
+        label: "Liquidity V1",
+        href: "http://v1exchange.bitblocks.finance//#/pool",
+      },
     ],
   },
   {
@@ -93,6 +101,11 @@ const config: MenuEntry[] = [
     label: 'Audit by TechRate',
     icon: 'AuditIcon',
     href: 'https://bitblocks.finance/files/Techrate-audit.pdf',
+  },
+  {
+    label: 'BitBlocks Website',
+    icon: 'More',
+    href: 'https://bitblocksproject.com/',
   },
 ]
 
