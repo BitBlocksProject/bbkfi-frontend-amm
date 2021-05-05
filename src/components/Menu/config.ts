@@ -69,7 +69,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Lp Worth calculator',
-        href: 'https://bitblocksfinance.web.app/calc.html',
+        href: 'https://lp-calc.web.app/',
       },
       {
         label: 'Farm stats',
