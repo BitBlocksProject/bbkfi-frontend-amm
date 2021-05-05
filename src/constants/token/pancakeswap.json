@@ -34,7 +34,7 @@
     {
       "name": "Pepper Finance",
       "symbol": "PEPR",
-      "address": "0x019be1796178516e060072004f267b59a49a0801",
+      "address": "0x67ed0a0b32f239a3fcd1b8c21bef7d86578f106b",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://amm.pepr.finance/images/coins/PEPR.png"
