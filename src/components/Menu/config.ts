@@ -61,7 +61,7 @@ const config: MenuEntry[] = [
   {
     label: 'Roadmap',
     icon: 'RoadmapIcon',
-    href: 'https://bitblocks-finance.gitbook.io/bitblocks-finance/roadmap',
+    href: 'https://bitblocksproject.gitbook.io/bitblocks-finance/roadmap',
   },
   {
     label: 'Tools',
@@ -84,7 +84,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Docs',
-        href: 'https://bitblocks-finance.gitbook.io/bitblocks-finance/',
+        href: 'https://bitblocksproject.gitbook.io/bitblocks-finance',
       },
       {
         label: 'Github',
