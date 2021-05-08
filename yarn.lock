@@ -1984,7 +1984,7 @@
 
 "@pancakeswap-libs/uikit@BitBlocksproject/bbfi-uikit":
   version "0.10.2"
-  resolved "https://codeload.github.com/BitBlocksProject/bbfi-uikit/tar.gz/main"
+  resolved "https://codeload.github.com/BitBlocksProject/bbkfi-uikit/tar.gz/main"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
