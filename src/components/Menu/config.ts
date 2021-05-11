@@ -98,6 +98,11 @@ const config: MenuEntry[] = [
     ],
   },
   {
+    label: 'Audit by Certik',
+    icon: 'AuditIcon',
+    href: 'https://www.certik.org/projects/bitblocksfinance',
+  },
+  {
     label: 'Audit by TechRate',
     icon: 'AuditIcon',
     href: 'https://bitblocks.finance/files/Techrate-audit.pdf',

@@ -1982,7 +1982,7 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@pancakeswap-libs/uikit@BitBlocksproject/bbfi-uikit":
+"@pancakeswap-libs/uikit@BitBlocksproject/bbkfi-uikit":
   version "0.10.2"
   resolved "https://codeload.github.com/BitBlocksProject/bbkfi-uikit/tar.gz/main"
   dependencies:
