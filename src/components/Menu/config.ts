@@ -36,7 +36,7 @@ const config: MenuEntry[] = [
   {
     label: 'Blocks Factory',
     icon: 'PoolIcon',
-    href: 'https://bitblocks.finance/nests',
+    href: 'https://bitblocks.finance/blocks-factory',
   },
   {
     label: 'Lottery',
