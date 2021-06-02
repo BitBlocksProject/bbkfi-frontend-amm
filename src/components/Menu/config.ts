@@ -39,9 +39,19 @@ const config: MenuEntry[] = [
     href: 'https://bitblocks.finance/blocks-factory',
   },
   {
+    label: 'BBKFI Houses',
+    icon: 'BbkfihousesIcon',
+    href: 'https://bitblocks.finance/bbkfi-houses',
+  },
+  {
     label: 'Lottery',
     icon: 'TicketIcon',
     href: 'https://bitblocks.finance/lottery'
+  },
+  {
+    label: 'Vote',
+    icon: 'GroupsIcon',
+    href: 'https://snapshot.org/#/bitblocks.eth',
   },
   {
     label: 'Buy BBKFI',
